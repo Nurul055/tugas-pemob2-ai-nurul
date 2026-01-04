@@ -33,6 +33,7 @@ Biar tampilan aplikasi SmartSpend kamu terlihat profesional dan nggak bikin bing
 - Halaman Kurs & Berita (REST API)
   
 5. Teknologi Yang Digunakan
+
 Flutter
 Dart
 REST API (MockAPI.io)
