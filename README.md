@@ -20,9 +20,7 @@ External Data (REST API): Mengambil data luar (seperti kurs USD ke IDR) agar apl
 3. Strategi Deployment (The Delivery)
 Setelah koding selesai, Anda memiliki dua output:
 Android (APK): File .apk yang bisa langsung di-install di HP dosen atau teman.
-Web (PWA): Aplikasi dijalankan di browser (lewat Netlify). Keunggulannya adalah PWA bisa di-"Add to Home Screen" sehingga terasa seperti aplikasi asli tanpa perlu download dari Play Store.
-
-Biar tampilan aplikasi SmartSpend kamu terlihat profesional dan nggak bikin bingung (apalagi buat dosen yang nilai), desainnya harus bersih, simpel, dan "berbau" finansial. Karena kamu orang Akuntansi, kita pakai tema warna Teal (Hijau Kebiruan) atau Biru Navy supaya terkesan terpercaya dan rapi.
+Web (PWA): Aplikasi dijalankan di browser (lewat Netlify). 
 
 4. Tampilan Aplikasi
 - Halaman Login & 2. Register
